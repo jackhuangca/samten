@@ -4,6 +4,12 @@ title: "上师心滴章节索引"
 permalink: /chapters/
 ---
 
+---
+nav_exclude: true
+---
+
+
+
 # 章节索引（电子书编排顺序）
 
 > 注：第 21 章在源数据中未检索到对应笔记。
