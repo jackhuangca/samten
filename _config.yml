@@ -13,3 +13,9 @@ markdown: kramdown
 search_enabled: true
 
 
+# hide collections
+collections:
+  posts:
+    nav_exclude: true
+
+
