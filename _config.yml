@@ -1,12 +1,21 @@
-title: "桑丹笔记"
-description: "将微信朋友圈中的《上师心滴》学习笔记以时间线与章节线双视图发布，并可组装为电子书。"
-theme: minima
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-collections_dir: .
+title: "桑丹道人"
+description: "《上师心滴》学习笔记：时间线（博客）+ 章节线（电子书）"
 remote_theme: just-the-docs/just-the-docs
 
-# 导航/搜索（Just the Docs 内置）
+# GitHub Pages 通常需要显式启用 remote_theme 插件
+plugins:
+  - jekyll-remote-theme
+
+# 站点行为
+markdown: kramdown
+
+# Just the Docs：搜索
 search_enabled: true
+
+# 侧边栏外链（可选）
+aux_links:
+  "GitHub Repository":
+    - "https://github.com/<你的用户名>/<你的仓库名>"
+
+# 外链在新窗口打开（可选）
+aux_links_new_tab: true
