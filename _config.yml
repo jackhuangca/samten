@@ -1,5 +1,5 @@
 title: "桑丹道人"
-description: "《上师心滴》学习笔记：时间线（博客）+ 章节线（电子书）"
+description: "桑丹道人之《桑丹笔记》系列"
 remote_theme: just-the-docs/just-the-docs
 
 # GitHub Pages 通常需要显式启用 remote_theme 插件
@@ -12,10 +12,4 @@ markdown: kramdown
 # Just the Docs：搜索
 search_enabled: true
 
-# 侧边栏外链（可选）
-aux_links:
-  "GitHub Repository":
-    - "https://github.com/<你的用户名>/<你的仓库名>"
 
-# 外链在新窗口打开（可选）
-aux_links_new_tab: true
