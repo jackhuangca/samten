@@ -1,0 +1,8 @@
+title: "Samten 笔记｜上师心滴"
+description: "将微信朋友圈中的《上师心滴》学习笔记以时间线与章节线双视图发布，并可组装为电子书。"
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+collections_dir: .
