@@ -18,4 +18,10 @@ collections:
   posts:
     nav_exclude: true
 
+# hide ebook posts
+defaults:
+  - scope:
+      path: "ebook"
+    values:
+      nav_exclude: true
 
