@@ -1,4 +1,4 @@
-title: "Samten 笔记｜上师心滴"
+title: "桑丹笔记"
 description: "将微信朋友圈中的《上师心滴》学习笔记以时间线与章节线双视图发布，并可组装为电子书。"
 theme: minima
 markdown: kramdown
@@ -6,3 +6,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 collections_dir: .
+remote_theme: just-the-docs/just-the-docs
+
+# 导航/搜索（Just the Docs 内置）
+search_enabled: true
